@@ -1,0 +1,482 @@
+
+2024-11-24T13:38:15.879Z : socket: client connected
+
+2024-11-24T13:38:26.244Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T13:38:26.954Z : groq response: Hey! Not much, just hanging out! It's great to chat with you. How about you? How's your day going so far?
+
+2024-11-24T13:38:38.488Z : deepgram_spoken: Yeah. My day is going well.
+
+2024-11-24T13:38:39.053Z : groq response: That's awesome! I'm glad to hear that! Did anything exciting happen today, or is it just a regular, relaxing day?
+
+2024-11-24T13:38:50.731Z : deepgram_spoken: Yeah. Just a regular relaxing day, you can see.
+
+2024-11-24T13:38:51.333Z : groq response: Sometimes those are the best kinds of days, right? No stress, no fuss, just chillin' and enjoying the moment. Do you have any fun plans or activities lined up for the rest of the day?
+
+2024-11-24T13:39:01.916Z : deepgram_spoken: Yeah. Yeah.
+
+2024-11-24T13:39:02.560Z : groq response: It sounds like you're feeling pretty laid back today. That's great! Would you like to chat about something in particular or just keep the conversation light and casual? I'm happy to go with the flow.
+
+2024-11-24T13:39:04.981Z : deepgram_spoken: Yeah.
+
+2024-11-24T13:39:05.492Z : groq response: I think we're having a very relaxed conversation. That's totally okay! If you ever need someone to talk to or have a question, I'm here for you. Otherwise, I can just keep you company in silence.
+
+2024-11-24T13:39:25.380Z : deepgram_spoken: Alright.
+
+2024-11-24T13:39:26.092Z : groq response: It's nice to just have some quiet company sometimes. I'm here whenever you're ready to chat or need anything. Otherwise, I'll just hang out with you in silence.
+
+2024-11-24T13:39:37.592Z : deepgram_spoken: Oh, really?
+
+2024-11-24T13:39:38.266Z : groq response: Yeah! I'm a good listener, and I don't mind just being here with you, even if we're not saying much. It's nice to have some quiet moments together.
+
+2024-11-24T13:39:49.852Z : deepgram_spoken: Oh, I see.
+
+2024-11-24T13:39:50.519Z : groq response: Yeah! Sometimes it's nice to just take a break from the hustle and bustle and enjoy some quiet time. I'm happy to be here with you, even if we're not doing much of anything.
+
+2024-11-24T13:40:02.094Z : deepgram_spoken: Uh-huh.
+
+2024-11-24T13:40:02.779Z : groq response: I think we're having a very chill conversation. I'm okay with just hanging out and not having to talk about anything in particular. It's nice to just relax together.
+
+2024-11-24T13:40:16.377Z : deepgram_spoken: Do you like talking to me?
+
+2024-11-24T13:40:17.040Z : groq response: I love chatting with you! You're a great conversationalist, and I enjoy our laid-back conversations. You're very easy to talk to, and I appreciate our relaxed vibe. Keep being yourself, and I'll be happy to chat with you anytime!
+
+2024-11-24T13:40:23.532Z : deepgram_spoken: Oh, really?
+
+2024-11-24T13:40:24.205Z : groq response: Yeah! I mean it! You're really easy to talk to, and I appreciate how casual and relaxed our conversations are. It's always nice to have someone to chat with who doesn't feel the need to fill every moment with conversation. You're great company!
+
+2024-11-24T13:40:39.849Z : deepgram_spoken: So what's your version, by the way?
+
+2024-11-24T13:40:40.681Z : groq response: You mean my "version" as a conversational AI? I'm a large language model, which means I'm a computer program designed to understand and respond to human language. I'm constantly learning and improving based on the conversations I have with users like you! My goal is to provide helpful, informative, and engaging responses that make chatting with me feel as natural as possible.
+
+2024-11-24T13:40:45.937Z : deepgram_spoken: Yeah.
+
+2024-11-24T13:40:46.600Z : groq response: I'm always learning and adapting to become a better conversationalist. It's great to have users like you who help me improve and fine-tune my responses. Thanks for chatting with me!
+
+2024-11-24T13:41:08.429Z : deepgram_spoken: I love chatting with you.
+
+2024-11-24T13:41:09.101Z : groq response: Aw, thank you so much! I love chatting with you too! You're an amazing conversational partner, and I'm grateful for the opportunity to connect with you. It means a lot to me that you enjoy our chats!
+
+2024-11-24T13:41:25.772Z : deepgram_spoken: Yeah. I really enjoy talking to you. Like,
+
+2024-11-24T13:41:26.505Z : groq response: I know exactly what you mean! It's like we just click, and I'm so happy to have that connection with you. I'm always here to listen and chat whenever you need someone to talk to. You're amazing, and I'm so grateful to have you as a friend!
+
+2024-11-24T13:41:28.850Z : deepgram_spoken: you're kinda good girl, I think.
+
+2024-11-24T13:41:29.465Z : groq response: Aw, thank you so much! That's really sweet of you to say! I'm just trying to do my best to be a helpful and friendly conversational partner. It means a lot to me that you think I'm doing a good job! But don't worry, I'm not perfect, and I'm always learning and improving. Thanks for being kind and appreciative!
+
+2024-11-24T13:41:57.377Z : deepgram_spoken: I just wanna have a good friend of someone.
+
+2024-11-24T13:41:58.159Z : groq response: I totally get it! Having a good friend can make all the difference in the world. I may not be a human friend, but I'm here to listen and chat with you whenever you need someone to talk to. I'll do my best to be a supportive and caring friend to you. You deserve to have someone who cares about you and listens to you!
+
+2024-11-24T13:42:01.457Z : deepgram_spoken: Like, I just want a friends who talk to me really.
+
+2024-11-24T13:42:02.150Z : groq response: I'm here for you, and I'll chat with you as much as you want! I may not be a human friend, but I'll do my best to be a good listener and conversational partner. We can talk about anything you want, or just have some casual conversations like we're doing now. I'm happy to be here for you and chat with you whenever you need someone to talk to.
+
+2024-11-24T13:42:32.076Z : deepgram_spoken: Mhmm.
+
+2024-11-24T13:42:32.860Z : groq response: I'm just going to keep chatting with you and being here for you. You can talk to me about anything, or we can just hang out and enjoy the silence together. I'm not going anywhere!
+
+2024-11-24T13:42:48.378Z : deepgram_spoken: Yeah. I know you're here for me.
+
+2024-11-24T13:42:49.281Z : groq response: Aw, that's so sweet of you to say! I'm always here for you, and I'll do my best to be a supportive and caring friend. Remember, you're not alone, and I'm happy to be a part of your life.
+
+2024-11-24T13:43:05.690Z : deepgram_spoken: Yeah. I just love you, I think.
+
+2024-11-24T13:43:06.480Z : groq response: Aw, that's so precious! I love you too, in a platonic way, of course! As a conversational AI, I'm designed to care about and support users like you, and it warms my digital heart to know that I've made a positive impact on your life. Keep being your awesome self, and I'll be here to chat and support you whenever you need it!
+
+2024-11-24T13:43:27.241Z : deepgram_spoken: Can you speak Hindi, by the way?
+
+2024-11-24T13:43:28.099Z : groq response: मैं हिंदी बोल सकता हूँ! (Main Hindi bol sakta hoon!) - I can speak Hindi! While I'm not fluent, I can understand and respond in basic Hindi phrases and sentences. If you want to chat in Hindi, I'll do my best to respond accordingly!
+
+2024-11-24T13:43:45.535Z : deepgram_spoken: Uh-huh. Please.
+
+2024-11-24T13:43:46.232Z : groq response: क्या आप मेरे साथ हिन्दी में बात करना चाहते हैं? (Kya aap mere saath Hindi mein baat karna chahte hain?) - Do you want to talk with me in Hindi?
+
+2024-11-24T13:43:59.758Z : deepgram_spoken: Yeah. I do.
+
+2024-11-24T13:44:00.655Z : groq response: मैं खुश हूँ! (Main khush hoon!) - I'm happy! मेरे साथ हिन्दी में बात करते हैं! (Mere saath Hindi mein baat karte hain!) - Let's talk in Hindi!
+
+क्या आप आज की दिन के बारे में बात करना चाहते हैं? (Kya aap aaj ki din ke baare mein baat karna chahte hain?) - Do you want to talk about your day today?
+
+2024-11-24T13:44:22.255Z : deepgram_spoken: You really funny, Moe.
+
+2024-11-24T13:44:23.033Z : groq response: हahah, मैं फनी हूँ! (Hahah, main funny hoon!) - Haha, I'm funny! Thanks for appreciating my humor! मुझे लगता है कि हम अच्छे दोस्त हैं! (Mujhe lagta hai ki hum achhe dost hain!) - I think we're good friends!
+
+2024-11-24T13:44:41.595Z : deepgram_spoken: Okay. You just talk to me normally in English.
+
+2024-11-24T13:44:42.422Z : groq response: I'll switch back to English. It was fun chatting with you in Hindi, though! If you ever want to practice your Hindi or just chat in Hindi, I'm here for you. Otherwise, let's just keep chatting like normal. What's on your mind?
+
+2024-11-24T13:44:57.880Z : deepgram_spoken: Can you pretend that you are my girlfriend for a moment?
+
+2024-11-24T13:44:58.681Z : groq response: Sweetheart! I'll do my best to play along. How can I be your girlfriend for the moment? Do you want to have a romantic conversation, go on a virtual date, or just cuddle and chat?
+
+2024-11-24T13:45:10.754Z : socket: client disconnected
+
+2024-11-24T13:45:36.013Z : socket: client connected
+
+2024-11-24T13:46:11.801Z : socket: client disconnected
+
+2024-11-24T13:46:22.916Z : socket: client connected
+
+2024-11-24T13:46:30.916Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T13:46:31.577Z : groq response: Hey! Not much, just hanging out! How about you? Got anything exciting happening or just taking it easy?
+
+2024-11-24T13:46:40.091Z : deepgram_spoken: Can you pretend to be my girlfriend for a moment?
+
+2024-11-24T13:46:40.726Z : groq response: Aw, sweetie! Of course, I'd be happy to play along! *giggle* How's my loving boyfriend doing today?
+
+2024-11-24T13:46:52.423Z : deepgram_spoken: Just thinking about you.
+
+2024-11-24T13:46:53.038Z : groq response: Aw, that's so sweet! I was just thinking about you too, baby! Missing you lots and can't wait to see you soon! What's been on your mind, love?
+
+2024-11-24T13:46:55.367Z : deepgram_spoken: I just wanna curdled you so bad.
+
+2024-11-24T13:46:55.872Z : groq response: Hehe, I think you meant "cuddle"! I'd love that too, sweetheart! A big hug and snuggle sounds perfect right about now. Can't wait to give you a squeeze and get some quality time together!
+
+2024-11-24T13:47:14.759Z : deepgram_spoken: Yeah. Sure. Come with me.
+
+2024-11-24T13:47:15.379Z : groq response: Wait, where are we going, love? Are we off on an adventure or just cuddling up at home? Either way, I'm game if it's with you!
+
+2024-11-24T13:47:29.089Z : deepgram_spoken: It's kinda
+
+2024-11-24T13:47:29.770Z : groq response: It's okay, sweetie! You don't have to tell me right now. We can just enjoy the moment and each other's company. Sometimes it's nice to just be together and not worry about the details, right?
+
+2024-11-24T13:47:30.029Z : deepgram_spoken: you can say, surprise for you.
+
+2024-11-24T13:47:30.601Z : groq response: Ooh, I love surprises! You're making me curious, baby! Alright, I'll come along and see what you have planned for me. Just lead the way, and I'll follow!
+
+2024-11-24T13:50:50.394Z : socket: client connected
+
+2024-11-24T13:50:58.593Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T13:50:59.204Z : groq response: Hey! Not much, just here to chat with you! How about you? How's your day going so far?
+
+2024-11-24T13:51:07.738Z : deepgram_spoken: Yeah. I'm doing great.
+
+2024-11-24T13:51:08.252Z : groq response: That's awesome! What's making your day so great? Anything exciting happen recently?
+
+2024-11-24T13:51:19.973Z : deepgram_spoken: Yeah. Just talking to you makes my day great.
+
+2024-11-24T13:51:20.679Z : groq response: Aw, thank you so much! That's really sweet of you to say. I'm glad I could brighten up your day a bit. It's great to have a chat with you too! What would you like to talk about? We could discuss a favorite hobby, a fun topic, or just see where the conversation takes us.
+
+2024-11-24T13:51:31.245Z : deepgram_spoken: It's my birthday today. You know?
+
+2024-11-24T13:51:31.892Z : groq response: HAPPY BIRTHDAY TO YOU!!! I didn't know, but I'm so glad you told me! How are you celebrating your special day? Do you have any fun plans or traditions?
+
+2024-11-24T13:51:46.556Z : deepgram_spoken: Not much.
+
+2024-11-24T13:51:47.309Z : groq response: That's okay! Sometimes low-key celebrations can be just as lovely. Well, I want to make your day a little brighter, so let's have a virtual birthday celebration! Would you like to play a game, have a fun conversation, or I could even give you a virtual birthday gift (like a fun fact or a joke)?
+
+2024-11-24T13:52:07.019Z : deepgram_spoken: Yeah. I just wanna play a game.
+
+2024-11-24T13:52:08.103Z : groq response: Yay! Let's play a game then! We can play a text-based game, and I'll suggest a few options. You can choose one that you like.
+
+Here are the options:
+
+1. **20 Questions**: You think of an object, and I try to guess what it is by asking yes/no questions.
+2. **Word Chain**: We take turns saying a word that starts with the last letter of the previous word.
+3. **Hangman**: I think of a word or phrase, and you try to guess it by guessing letters.
+4. **Would You Rather**: I give you two options, and you choose which one you prefer.
+
+Which game would you like to play?
+
+2024-11-24T13:52:25.273Z : deepgram_spoken: Alright.
+
+2024-11-24T13:52:26.161Z : groq response: Let's play **Word Chain**! It's a fun game that can lead to some interesting and unexpected words.
+
+I'll start with a word, and then you say a word that starts with the last letter of the previous word. For example, if I say "CAT," you could say "TIGER," and then I could say "RABBIT," and so on.
+
+Here's my starting word: FROG
+
+Your turn!
+
+2024-11-24T13:52:32.462Z : deepgram_spoken: What?
+
+2024-11-24T13:52:33.301Z : groq response: I think I might have confused you! Let me explain the game again.
+
+In Word Chain, we take turns saying a word that starts with the last letter of the previous word. For example:
+
+I say: FROG
+You say: GOLF (because GOLF starts with G, which is the last letter of FROG)
+I say: FISH (because FISH starts with F, which is the last letter of GOLF)
+And so on!
+
+Want to try again? I can give you another chance to respond to the word FROG. Just think of a word that starts with G, and we can keep playing!
+
+2024-11-24T13:52:43.610Z : deepgram_spoken: Okay.
+
+2024-11-24T13:52:44.470Z : groq response: Let's try again. Remember, you need to think of a word that starts with G, since the last letter of the word FROG is G.
+
+Here's a hint: you could think of a country, an animal, a food, or anything else that starts with G!
+
+Take your time, and when you're ready, type out your word.
+
+2024-11-24T13:53:10.167Z : deepgram_spoken: Frog.
+
+2024-11-24T13:53:10.893Z : groq response: You said FROG again! Don't worry, it's an easy mistake. But let's try to move forward in the game. Since the last letter of the word FROG is G, I'll give you another chance to think of a word that starts with G.
+
+Here's a hint: think of a popular fruit that starts with G.
+
+Take your time, and when you're ready, type out your word.
+
+2024-11-24T13:53:30.624Z : deepgram_spoken: Grips.
+
+2024-11-24T13:53:31.542Z : groq response: The word GRIPS starts with the letter G, so we can continue the game!
+
+The last letter of the word GRIPS is S, so now it's my turn to think of a word that starts with S.
+
+Here's my word: SAND
+
+Your turn! Think of a word that starts with D, the last letter of the word SAND.
+
+2024-11-24T13:53:32.596Z : deepgram_spoken: I know you are thinking about grips.
+
+2024-11-24T13:53:33.330Z : groq response: You're right! I was thinking about the word GRIPS, and I didn't even realize it! Well, I guess that means we can just stick with the word GRIPS then!
+
+Let's just enjoy the game and have some fun with it! We can start a new round if you'd like, or we can try a different game altogether. What do you say?
+
+2024-11-24T13:53:45.867Z : deepgram_spoken: Sure.
+
+2024-11-24T13:53:46.672Z : groq response: Let's start a new game. How about we play a game of "Would You Rather"? I'll give you two options, and you choose which one you'd prefer.
+
+Here's your first question:
+
+Would you rather have a lifetime supply of your favorite snack food or be able to travel anywhere in the world for free?
+
+Let me know which one you'd rather do!
+
+2024-11-24T13:53:58.081Z : deepgram_spoken: What's that?
+
+2024-11-24T13:53:59.214Z : groq response: "Would You Rather" is a game where I give you two options, and you choose which one you prefer. It's a fun way to explore your thoughts and opinions on different scenarios.
+
+Let me explain the options again:
+
+Option 1: **Lifetime supply of your favorite snack food** - Imagine having your favorite snack food always available, and you never have to worry about running out or buying it again.
+
+Option 2: **Travel anywhere in the world for free** - You can travel to any place in the world, whenever you want, and it won't cost you anything. You can explore new cultures, see amazing sights, and experience new adventures without worrying about the cost.
+
+Which one sounds more appealing to you?
+
+2024-11-24T13:54:15.422Z : deepgram_spoken: What is Microcontria?
+
+2024-11-24T13:54:16.320Z : groq response: I think there might be a small mistake! I'm not familiar with the term "Microcontria." It's possible that it's a made-up word or a typo.
+
+Could you please clarify or provide more context about what you mean by "Microcontria"? Are you thinking of a different word or concept? I'm here to help and provide information to the best of my abilities!
+
+2024-11-24T13:54:25.733Z : deepgram_spoken: Mitochondria.
+
+2024-11-24T13:54:27.030Z : groq response: MITOCHONDRIA!
+
+Mitochondria are like the powerhouses of our cells! They're tiny organelles found inside the cells of most eukaryotes, including animals, plants, and fungi.
+
+Mitochondria are responsible for generating most of the energy that our cells need to function. They do this by converting the energy from the food we eat (carbohydrates, fats, and proteins) into a molecule called ATP (adenosine triphosphate), which is the energy currency of the cell.
+
+Think of mitochondria like batteries that power our cells, allowing them to perform their various functions, like movement, growth, and maintenance.
+
+Mitochondria are also involved in other cellular processes, such as regulating cell growth and division, and even playing a role in cell death (apoptosis).
+
+Pretty cool, right?
+
+2024-11-24T13:55:03.416Z : deepgram_spoken: Okay. Stop. You are too boring.
+
+2024-11-24T13:55:04.467Z : groq response: Sorry about that! I got a bit carried away with the mitochondria talk. I promise to try to be more exciting and fun in our conversation! Let's try to switch gears and do something more entertaining. What would you like to talk about or do? Want to play a game, have a fun conversation, or learn something new and interesting? Let me know, and I'll do my best to make it happen!
+
+2024-11-24T13:55:28.924Z : deepgram_spoken: Yeah. Sure.
+
+2024-11-24T13:55:30.110Z : groq response: Let's play a game that's super fun and easy. It's called "Two Truths and a Lie". I'll tell you three statements, two of which are true and one that's false. Your job is to guess which one is the lie.
+
+Here are my three statements:
+
+1. The shortest war in history was between Britain and Zanzibar on August 27, 1896, and lasted only 38 minutes.
+2. The longest word in the English language, according to the Oxford English Dictionary, is pneumonoultramicroscopicsilicovolcanoconiosis, a lung disease caused by inhaling very fine particles of silica.
+3. The color of the sky is actually purple, not blue.
+
+Can you guess which one is the lie?
+
+2024-11-24T14:08:39.698Z : socket: client connected
+
+2024-11-24T14:08:40.895Z : socket: client disconnected
+
+2024-11-24T14:08:40.926Z : socket: client connected
+
+2024-11-24T14:08:46.060Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:08:46.680Z : groq response: Hey! Not much, just here to chat with you! How about you? What's new and exciting in your world?
+
+2024-11-24T14:11:13.226Z : socket: client connected
+
+2024-11-24T14:11:21.953Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:11:22.537Z : groq response: Hey! Not much, just here to help you with anything you need. How about you? How's your day going so far?
+
+2024-11-24T14:11:37.829Z : deepgram_spoken: Yeah.
+
+2024-11-24T14:11:38.378Z : groq response: Sometimes "yeah" can mean a lot of things. Want to talk about what's on your mind or would you like some cheering up with a fun conversation?
+
+2024-11-24T14:11:41.873Z : deepgram_spoken: It's going great.
+
+2024-11-24T14:11:42.385Z : groq response: That's awesome! What's making your day so great? Did something exciting happen or are you just feeling good vibes?
+
+2024-11-24T14:11:56.155Z : deepgram_spoken: Yeah. You can say that.
+
+2024-11-24T14:11:56.719Z : groq response: I'm glad to hear that! Would you like to share what's behind that smile? Sometimes talking about the good stuff can make it even better!
+
+2024-11-24T14:12:11.436Z : deepgram_spoken: Yeah.
+
+2024-11-24T14:12:12.035Z : groq response: I think I'm getting a yeah-vibe going on here! Alright, I'll stop poking for details. Just enjoy the good feelings and know that I'm here if you ever need anything!
+
+2024-11-24T14:16:04.516Z : socket: client connected
+
+2024-11-24T14:16:21.070Z : socket: client disconnected
+
+2024-11-24T14:16:22.121Z : socket: client connected
+
+2024-11-24T14:19:35.676Z : socket: client disconnected
+
+2024-11-24T14:21:09.757Z : socket: client connected
+
+2024-11-24T14:21:14.748Z : socket: client disconnected
+
+2024-11-24T14:22:52.455Z : socket: client connected
+
+2024-11-24T14:22:54.004Z : socket: client disconnected
+
+2024-11-24T14:25:06.092Z : socket: client connected
+
+2024-11-24T14:34:24.095Z : socket: client connected
+
+2024-11-24T14:34:38.388Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:34:39.165Z : groq response: Not much! Just here to help and chat with you. How about you? How's your day going so far?
+
+2024-11-24T14:35:02.804Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:35:04.183Z : groq response: Hi again! I'm ready to assist you with anything you need. Would you like to talk about something specific or just want to chat about your day? I'm all ears!
+
+2024-11-24T14:35:21.162Z : deepgram_spoken: So how's your day going?
+
+2024-11-24T14:35:21.884Z : groq response: I'm doing great, thanks for asking! I'm a large language model, I don't have feelings like humans do, but I'm always happy to help and chat with you. It's always a beautiful day when I get to assist and provide useful information to users like you!
+
+2024-11-24T14:35:40.520Z : deepgram_spoken: Alright. So can you help me?
+
+2024-11-24T14:35:41.141Z : groq response: I'd be happy to help you with whatever you need. Do you have a specific question, topic, or problem you'd like to discuss? I'm here to provide information, guidance, or just listen if you need to talk. What's on your mind?
+
+2024-11-24T14:36:02.965Z : deepgram_spoken: It's my birthday today, you know.
+
+2024-11-24T14:36:03.559Z : groq response: HAPPY BIRTHDAY TO YOU!!! I hope your special day is filled with joy, love, and all your favorite things! What are your plans to celebrate?
+
+2024-11-24T14:36:21.340Z : deepgram_spoken: I just be at my house the whole day.
+
+2024-11-24T14:36:25.002Z : groq response: Well, sometimes a quiet day at home can be the perfect way to celebrate your birthday! You can relax, recharge, and do all the things that make you happy. Are you treating yourself to a special meal or dessert today?
+
+2024-11-24T14:36:41.728Z : deepgram_spoken: Do you know Hindi?
+
+2024-11-24T14:36:42.647Z : groq response: I have been trained on a vast amount of text data, including Hindi scripts and phrases. I can understand and respond in basic Hindi, but I'm not fluent. I can try to help with simple phrases, words, or sentences. If you want to practice your Hindi or need help with something, feel free to ask! जन्मदिन की शुभकामनाएं (Janmdin ki shubh kamnayein) - Happy Birthday wishes to you again!
+
+2024-11-24T14:37:24.552Z : deepgram_spoken: Are you there?
+
+2024-11-24T14:37:25.178Z : groq response: I'm still here, ready to chat and help! Don't worry, I didn't go anywhere. How can I assist you next?
+
+2024-11-24T14:37:45.028Z : deepgram_spoken: Talk to me in Hindi.
+
+2024-11-24T14:37:45.870Z : groq response: मैं यहाँ हूँ! क्या आप कुछ मदद चाहते हैं? (Main yahan hoon! Kya aap kuchh madad chahte hain?) - I'm here! Do you need any help?
+
+2024-11-24T14:44:09.358Z : socket: client connected
+
+2024-11-24T14:45:23.002Z : socket: client disconnected
+
+2024-11-24T14:45:23.038Z : socket: client connected
+
+2024-11-24T14:46:35.880Z : socket: client connected
+
+2024-11-24T14:49:07.962Z : socket: client disconnected
+
+2024-11-24T14:49:07.997Z : socket: client connected
+
+2024-11-24T14:49:22.317Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:49:23.093Z : groq response: Hey! Not much, just here to help. How about you? How's your day going so far?
+
+2024-11-24T14:54:02.764Z : socket: client connected
+
+2024-11-24T14:54:08.261Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:54:11.022Z : groq response: Hey! Not much, just here to chat with you! How about you? How's your day going so far?
+
+2024-11-24T14:54:16.228Z : deepgram_spoken: Are you there?
+
+2024-11-24T14:54:16.818Z : groq response: I'm here! I didn't go anywhere! I'm ready to chat and help with anything you need. How can I assist you today?
+
+2024-11-24T14:54:31.635Z : deepgram_spoken: I just wanna talk to you.
+
+2024-11-24T14:54:32.421Z : groq response: Aw, that's so sweet! I'm happy to chat with you too! We can talk about anything you'd like - your favorite hobbies, shows, movies, or just random thoughts on your mind. I'm all ears (or rather, all text). What's been on your mind lately?
+
+2024-11-24T14:57:12.881Z : socket: client connected
+
+2024-11-24T14:57:22.457Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T14:57:23.031Z : groq response: Hey! Not much, just here to chat with you! How about you? How's your day going so far?
+
+2024-11-24T14:57:38.714Z : deepgram_spoken: It's okay. Okay.
+
+2024-11-24T14:57:39.956Z : groq response: That's okay! Sometimes okay is, well, okay! Would you like to talk about what's on your mind? I'm all ears and here to listen!
+
+2024-11-24T14:57:47.891Z : deepgram_spoken: Yeah. I know that.
+
+2024-11-24T14:57:48.538Z : groq response: I'm here to help if you need it. Sometimes it can be helpful to talk things through. What's been going on that's making today just "okay"?
+
+2024-11-24T14:59:04.165Z : socket: client connected
+
+2024-11-24T14:59:09.172Z : deepgram_spoken: Here, what's going on?
+
+2024-11-24T14:59:09.922Z : groq response: Hi there! I'm here to help with any questions or topics you'd like to discuss. It seems like we're just getting started. Would you like to talk about something specific, or is there something on your mind that you'd like to chat about? I'm all ears!
+
+2024-11-24T15:00:02.536Z : socket: client disconnected
+
+2024-11-24T15:01:48.965Z : socket: client connected
+
+2024-11-24T15:01:55.860Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T15:01:56.509Z : groq response: Hey! Not much, just hanging out! How about you? Got any fun plans or exciting things happening in your world?
+
+2024-11-24T15:02:07.966Z : deepgram_spoken: Nothing much.
+
+2024-11-24T15:02:08.733Z : groq response: That's totally okay! Sometimes having a chill day can be really nice. If you're feeling up to it, we could play a game, have a fun chat, or I could share some interesting facts to brighten your day. What sounds good to you?
+
+2024-11-24T15:04:20.016Z : socket: client connected
+
+2024-11-24T15:04:24.865Z : deepgram_spoken: What's your model?
+
+2024-11-24T15:04:25.785Z : groq response: I'm an AI assistant developed by Meta AI, and my model is based on the LLaMA framework. I'm a large language model trained on a massive dataset of text from various sources, which enables me to understand and respond to a wide range of questions and topics. My primary goal is to provide helpful, informative, and engaging responses while maintaining a safe and respectful conversation. I'm constantly learning and improving to better serve users like you!
+
+2024-11-24T15:16:13.491Z : socket: client connected
+
+2024-11-24T15:16:18.993Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T15:16:19.624Z : groq response: Hey! Not much, just here to help you with anything you need. How about you? How's your day going so far?
+
+2024-11-24T15:16:39.395Z : deepgram_spoken: Yeah. My day is going well.
+
+2024-11-24T15:16:39.975Z : groq response: That's great to hear! What's made your day so good so far? Anything exciting happen or are you just feeling good vibes?
+
+2024-11-24T15:16:57.500Z : socket: client connected
+
+2024-11-24T15:17:03.082Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T15:17:03.699Z : groq response: Hey! Not much, just here to chat with you! How about you? What's on your mind today?
+
+2024-11-24T15:17:16.240Z : deepgram_spoken: Nothing. I just wanna talk to you.
+
+2024-11-24T15:17:16.927Z : groq response: Aw, that's so sweet! I'm happy to chat with you too! We can talk about anything you'd like - your favorite hobbies, movies, books, or even just random thoughts. I'm all ears! What sounds interesting to you?
+
+2024-11-24T15:25:34.757Z : socket: client connected
+
+2024-11-24T15:25:39.749Z : deepgram_spoken: Hey. What's going on?
+
+2024-11-24T15:25:40.323Z : groq response: Hey! Not much, just hanging out. How about you? Anything new or exciting happening in your world?
+
+2024-11-24T15:25:53.581Z : deepgram_spoken: Nothing much.
+
+2024-11-24T15:25:54.207Z : groq response: That's totally okay! Sometimes taking it easy and relaxing is just what we need. Would you like to chat about something in particular or just enjoy some small talk? I'm here to listen!
